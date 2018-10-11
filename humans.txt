@@ -5,6 +5,7 @@
 
     Aseem Dhawan
     dhawanhenry
+	Email
 
 # THANKS
 
@@ -15,3 +16,4 @@
     HTML5, CSS5, Angular
     jQuery, Modernizr
 	Machine Learning, AWS
+
