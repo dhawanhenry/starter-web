@@ -11,3 +11,9 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Git and GitHub Training
+
+## Git Comparisons
+Adding Git Comparisons info
+
+## GitHub Content 
+Comparison with Repo
