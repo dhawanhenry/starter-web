@@ -9,8 +9,8 @@
 
 # THANKS
 
-    Aseem Dhawan
-
+    Aseem Dhawan, adding a thank you message
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS5, Angular
