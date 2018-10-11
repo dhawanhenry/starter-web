@@ -13,6 +13,7 @@ Sample website with plenty of files for demos
 ## Git and GitHub Training
 GitHub course.
 Adding Rebase related text
+More text added for the Rebase part
 
 
 ## Git Comparisons
