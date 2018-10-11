@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> Aseem Dhawan <twitter>
+    Aseem Dhawan
+    dhawanhenry
 
 # THANKS
 
-    <name>
+    Aseem Dhawan
 
 # TECHNOLOGY COLOPHON
 
