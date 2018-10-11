@@ -17,3 +17,6 @@ Adding Git Comparisons info
 
 ## GitHub Content 
 Comparison with Repo
+
+## Contribution
+Fork the repo and raise pull request
