@@ -4,12 +4,11 @@
 
 Modifying the file before Rebase
 
-<<<<<<< HEAD
 --Doing some changes in Local.
-=======
+
 Going to insert conflicts in my feature branch
 
->>>>>>> mybranch
+
 
 # TEAM
 
