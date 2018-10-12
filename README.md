@@ -25,3 +25,4 @@ Comparison with Repo
 
 ## Contribution
 Fork the repo and raise pull request
+adding a text related to Stash
