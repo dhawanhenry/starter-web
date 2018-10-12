@@ -1,9 +1,15 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+
 Modifying the file before Rebase
 
+<<<<<<< HEAD
 --Doing some changes in Local.
+=======
+Going to insert conflicts in my feature branch
+
+>>>>>>> mybranch
 
 # TEAM
 
@@ -11,9 +17,6 @@ Modifying the file before Rebase
     dhawanhenry
 	Email
 	DevOps Engineer Level 3
-	
-	1) ADDING EXTRA Stuff for Rebase conflicts
-	2) Second string of conflicts
 
 # THANKS
 
