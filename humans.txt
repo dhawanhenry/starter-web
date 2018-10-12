@@ -10,6 +10,7 @@ Modifying the file before Rebase
 	Email
 	DevOps Engineer Level 3
 	ADDING EXTRA Stuff for Rebase conflicts
+	Second string of conflicts
 
 # THANKS
 
