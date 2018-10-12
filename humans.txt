@@ -5,6 +5,7 @@
 Modifying the file before Rebase
 
 --Doing some changes in Local.
+--Adding some important notes on Git Stash 
 
 Going to insert conflicts in my feature branch
 
