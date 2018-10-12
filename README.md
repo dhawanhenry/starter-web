@@ -9,6 +9,7 @@ This repository is for showing how Git and GitHub work
 ## Introduction for the README.md
 
 Sample website with plenty of files for demos
+Some further experimentation with Git related commands and procedures
 
 ## Git and GitHub Training
 GitHub course.
