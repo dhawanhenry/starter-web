@@ -9,7 +9,8 @@ Modifying the file before Rebase
     dhawanhenry
 	Email
 	DevOps Engineer Level 3
-	ADDING EXTRA Stuff for Rebase conflicts
+	
+	1) ADDING EXTRA Stuff for Rebase conflicts
 	Second string of conflicts
 
 # THANKS
