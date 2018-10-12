@@ -11,7 +11,7 @@ Modifying the file before Rebase
 	DevOps Engineer Level 3
 	
 	1) ADDING EXTRA Stuff for Rebase conflicts
-	Second string of conflicts
+	2) Second string of conflicts
 
 # THANKS
 
