@@ -7,7 +7,7 @@ Modifying the file before Rebase
 --Doing some changes in Local.
 --Adding some important notes on Git Stash 
 
-Going to insert conflicts in my feature branch
+Going to insert conflicts in my feature branch  
 
 
 
@@ -26,5 +26,6 @@ Going to insert conflicts in my feature branch
 
     HTML5, CSS5, Angular
     jQuery, Modernizr
-	Machine Learning, AWS
+	Machine Learning, AWS, Google Cloud
+	AWS Solution Developer
 
