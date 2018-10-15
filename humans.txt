@@ -21,6 +21,7 @@ Going to insert conflicts in my feature branch
 # THANKS
 
     Aseem Dhawan, adding a thank you message
+    Adding additional text for MASTER branch
 	
 # TECHNOLOGY COLOPHON
 
